@@ -2941,7 +2941,7 @@ ol, ul {
 
 .mck-camera-icon {
 	display: block;
-	background-image: url(../../../images/mck-icon-camera.png);
+	background-image: url(../images/mck-icon-camera.png);
 	background-repeat: no-repeat;
 	margin-top: 10px;
 	height: 20px;
@@ -2975,7 +2975,7 @@ ol, ul {
 	.mck-icon-camera, .mck-icon-marker, .mck-icon-delivered, .mck-icon-read,
 	.mck-icon-sent, .mck-icon-time {
 	display: inline-block;
-	background: url(../../../images/mck-plugin-sprite.png) no-repeat;
+	background: url(../images/mck-plugin-sprite.png) no-repeat;
 	overflow: hidden;
 	text-indent: -9999px;
 	text-align: left;
